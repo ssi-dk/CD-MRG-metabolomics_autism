@@ -1,1 +1,2 @@
 # CD-MRG-metabolomics_autism
+This repository contains supplementary materials relating to the manuscript "Unraveling the metabolomic architecture of autism in a large Danish population-based cohort" by F. Ottosson (@immu-flo), F. Russo (@russof85), A. Abrahamsson, N. MacSween, J. Courraud, K. Skogstrand, O. Melander, U. Ericson, M. Orho-Melander, A. Cohen, J. Grove, PB. Mortensen, D. Hougaard, M. Ernst (@madeleineernst)
